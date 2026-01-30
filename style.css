@@ -1,0 +1,15 @@
+body{
+    margin: 0px auto  ;
+
+}
+
+
+.container{
+    width: 67%;
+    border: 6px solid rgb(171, 111, 255); 
+    background-color: rgb(67, 83, 255);
+    padding: 15px;
+    margin: 0px auto;
+    text-align: center;
+    
+}
